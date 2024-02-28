@@ -1,0 +1,11 @@
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Yusuf\Desktop\C# Course\week3\day2\HomeTask\CRUD\Domain\obj\Debug\net8.0\ref\Domain.dll
